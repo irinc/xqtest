@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/xqtest/!svn/ver/54/trunk/src/main/xquery/test/tests
+END
+syntax.xqy
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/xqtest/!svn/ver/36/trunk/src/main/xquery/test/tests/syntax.xqy
+END
+asserts.xqy
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/xqtest/!svn/ver/54/trunk/src/main/xquery/test/tests/asserts.xqy
+END

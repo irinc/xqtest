@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/xqtest/!svn/ver/76/trunk/src/main/xquery/resources/images
+END
+fail.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/xqtest/!svn/ver/76/trunk/src/main/xquery/resources/images/fail.png
+END
+pass.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/xqtest/!svn/ver/76/trunk/src/main/xquery/resources/images/pass.png
+END
