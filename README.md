@@ -9,9 +9,9 @@ Start
 
 - Clone the code
 - Setup MarkLogic HTTP server for testing locally
-  - Root: <xqtest-dir>/src
+  - Root: XQTEST-DIR/src
   - Authentication: application-level
   - Default user: admin
 - Run the xqtest tests
-  - HTML results: http://<your-server:port>/test/html.xqy
-  - XML/TestNG results: http://<your-server:port>/test/testng.xqy
+  - HTML results: http://ML-SERVER:PORT/test/html.xqy
+  - XML/TestNG results: http://ML-SERVER:PORT/test/testng.xqy
